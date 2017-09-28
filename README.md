@@ -1,3 +1,5 @@
+> This repository is no longer maintained. For more up-to-date code, see [sumnerevans's fork](https://github.com/sumnerevans/menu-calc).
+
 ## menu-calc
 A calculator for Rofi/dmenu(2)  
 [Screencast](https://gfycat.com/SociableDopeyHerald)
